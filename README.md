@@ -37,4 +37,4 @@
 | RR | 응답 시간이 좋음 | 문맥 교환 오버헤드, time quantum에 민감 |
 
 ## Study Notes
-`notes/` 폴더에 강의 단원별 요약을 정리했습니다.
+`01-introduction.md` ~ `07-ipc.md` 파일에 강의 단원별 요약을 정리했습니다.
