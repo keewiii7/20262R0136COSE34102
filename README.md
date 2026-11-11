@@ -6,10 +6,10 @@
 ## Development Environment
 | 항목 | 내용 |
 |---|---|
-| Host OS | (예: macOS) |
-| Virtual Machine | (예: UTM / VirtualBox) |
-| Ubuntu | (버전 기입) |
-| Linux Kernel | (버전 기입) |
+| Host OS | macOS |
+| Virtual Machine | Lima |
+| Ubuntu | 22.04 LTS |
+| Linux Kernel | 6.6.36 |
 
 ## Project #1 — Linux System Call 추가 (`my_stack`)
 리눅스 커널에 스택 자료구조를 다루는 새 시스템 콜을 추가하고, 유저 프로그램에서 호출해 동작을 확인했습니다.
